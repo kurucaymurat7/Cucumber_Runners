@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="15.63">
+    <testcase classname="US1005 dogru kullanici adi ve sifre ile giris yapilabilmeli" name="TC08 positive login test" time="15.404">
+        <system-out>
+            <![CDATA[Given kullanici "HMCUrl" anasayfasinda......................................passed
+Then Log in yazisina tiklar.................................................passed
+And gecerli username girer..................................................passed
+And gecerli password girer..................................................passed
+And Login butonuna basar....................................................passed
+Then sayfaya giris yaptigini kontrol eder...................................passed
+And sayfayi kapatir.........................................................passed
+]]>
+        </system-out>
+    </testcase>
+</testsuite>
